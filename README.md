@@ -9,7 +9,7 @@
 
 **`*`** Scripting stuff with **python** and **powershell**.
 
-**`*`** Competing with **L3akCTF**.
+**`*`** Competing with ```myself```.
 
 **`*`** Practicing touch typing, current record **154**-wpm **@** 60 Seconds
 
