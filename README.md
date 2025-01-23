@@ -7,7 +7,7 @@
 
 **`*`** Im currently coding an **EDR** from scratch.
 
-**`*`** Scripting stuff with **python** and **powershell**.
+**`*`** Scripting stuff with **python** and **java/css/html**.
 
 **`*`** Competing with ```myself```.
 
