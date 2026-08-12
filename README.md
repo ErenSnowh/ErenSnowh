@@ -9,7 +9,7 @@
 
 **`*`** Scripting stuff with **python** and **java/css/html**.
 
-**`*`** Competing with ```Kaggle AI Agents: Intensive Vibe Coding Project```.
+**`*`** ```Playing CTFs with L3ak```.
 
 **`*`** Practicing touch typing, current record **154**-wpm **@** 60 Seconds
 
@@ -18,7 +18,7 @@
 **`*`** **BTL1** **|** **Security+** **|** **Pentest+** **|** **CySA+** **|** **ITF+** 
 
 ## Below is my contributions graph for 2024 / 2025 
-![Snake animation](https://github.com/ErenSnowh/ErenSnowh/blob/output/github-contribution-grid-snake-dark.svg)
+![Snake animation](https://github.com/0x157/0x157/blob/output/github-contribution-grid-snake-dark.svg)
 
 
 
